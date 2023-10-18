@@ -1,4 +1,4 @@
-import project_0.game_v2 as game_v2
+import game_v2
 import numpy as np
 
 
